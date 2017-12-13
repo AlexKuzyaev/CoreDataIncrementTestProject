@@ -20,6 +20,12 @@ If button is tapped not in zone under tableView, button should receive the tap a
 
 Button action is to increment all Integers in CoreData and reload tableView.
 
+## Screenshots
+
+Initial Screen            |  Screen after increment
+:-------------------------:|:-------------------------:
+<img src="/../screenshots/Screenshots/Screen_Initial.png?" width="50%">  |  <img src="/../screenshots/Screenshots/Screen_Increment.png?" width="50%">
+
 ## Author
 
 * **Alex Kuzyaev** - [AlexKuzyaev](https://github.com/AlexKuzyaev)
