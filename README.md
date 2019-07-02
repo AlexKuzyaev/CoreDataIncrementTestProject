@@ -1,5 +1,5 @@
 # CoreDataIncrementTestProject
-Text project with CoreData, tableView &amp; button
+Test project with CoreData, tableView &amp; button
 
 ## Objective-C iOS application
 
